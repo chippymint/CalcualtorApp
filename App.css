@@ -1,0 +1,9 @@
+.component-app {
+    
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 100%;
+    display: flex;
+
+  }
+  
